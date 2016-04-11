@@ -12,4 +12,3 @@ Installation:
 7. start the nginx and crtmpserver.
 
 Bootstrap is used to build the site and webplayer is flowplayer.<br>
-Here is a sample site:101.251.247.18, for reference.
